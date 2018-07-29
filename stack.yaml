@@ -1,0 +1,8 @@
+resolver: lts-11.18
+
+packages:
+- '.'
+
+flags: {}
+
+extra-package-dbs: []
